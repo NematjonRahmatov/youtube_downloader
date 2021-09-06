@@ -1,7 +1,8 @@
 # pip install youtube-dl pafy
 import sys
 import os
-import pafy
+import pafy556
+
 from p2d_logo import logo
 
 # url = ""
